@@ -1,0 +1,16 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1703007174509,1039,Create user post request,200,OK,Thread Group 1-1,text,true,,398,405,1,1,https://petstore.swagger.io/v2/user,1038,0,909
+1703007175614,124,Delete user request,200,OK,Thread Group 1-1,text,true,,383,216,1,1,https://petstore.swagger.io/v2/user/qwer,124,0,0
+1703007175739,124,Update user request,200,OK,Thread Group 1-1,text,true,,398,409,1,1,https://petstore.swagger.io/v2/user/qwer,124,0,0
+1703007175864,124,Create user post request,200,OK,Thread Group 1-1,text,true,,398,410,1,1,https://petstore.swagger.io/v2/user,124,0,0
+1703007175988,124,Delete user request,200,OK,Thread Group 1-1,text,true,,384,217,1,1,https://petstore.swagger.io/v2/user/qwer1,124,0,0
+1703007176113,125,Update user request,200,OK,Thread Group 1-1,text,true,,398,415,1,1,https://petstore.swagger.io/v2/user/qwer1,125,0,0
+1703007176239,125,Create user post request,200,OK,Thread Group 1-1,text,true,,398,409,1,1,https://petstore.swagger.io/v2/user,124,0,0
+1703007176364,125,Delete user request,200,OK,Thread Group 1-1,text,true,,384,217,1,1,https://petstore.swagger.io/v2/user/qwer2,125,0,0
+1703007176490,126,Update user request,200,OK,Thread Group 1-1,text,true,,398,414,1,1,https://petstore.swagger.io/v2/user/qwer2,125,0,0
+1703007176618,126,Create user post request,200,OK,Thread Group 1-1,text,true,,398,409,1,1,https://petstore.swagger.io/v2/user,125,0,0
+1703007176744,125,Delete user request,200,OK,Thread Group 1-1,text,true,,384,217,1,1,https://petstore.swagger.io/v2/user/qwer3,125,0,0
+1703007176869,125,Update user request,200,OK,Thread Group 1-1,text,true,,398,414,1,1,https://petstore.swagger.io/v2/user/qwer3,125,0,0
+1703007176997,126,Create user post request,200,OK,Thread Group 1-1,text,true,,398,409,1,1,https://petstore.swagger.io/v2/user,126,0,0
+1703007177125,124,Delete user request,200,OK,Thread Group 1-1,text,true,,384,217,1,1,https://petstore.swagger.io/v2/user/qwer4,124,0,0
+1703007177250,124,Update user request,200,OK,Thread Group 1-1,text,true,,398,414,1,1,https://petstore.swagger.io/v2/user/qwer4,124,0,0

@@ -1,0 +1,41 @@
+2023-12-19 20:36:39,909 INFO o.a.j.u.JMeterUtils: Setting Locale to ru_RU
+2023-12-19 20:36:39,916 ERROR o.a.j.u.JMeterUtils: Could not find resources for 'ru_RU'
+2023-12-19 20:36:39,916 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2023-12-19 20:36:39,917 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2023-12-19 20:36:39,920 INFO o.a.j.JMeter: Copyright (c) 1998-2023 The Apache Software Foundation
+2023-12-19 20:36:39,920 INFO o.a.j.JMeter: Version 5.6.2
+2023-12-19 20:36:39,920 INFO o.a.j.JMeter: java.version=1.8.0_391
+2023-12-19 20:36:39,920 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2023-12-19 20:36:39,920 INFO o.a.j.JMeter: os.name=Windows 10
+2023-12-19 20:36:39,920 INFO o.a.j.JMeter: os.arch=amd64
+2023-12-19 20:36:39,920 INFO o.a.j.JMeter: os.version=10.0
+2023-12-19 20:36:39,921 INFO o.a.j.JMeter: file.encoding=Cp1251
+2023-12-19 20:36:39,921 INFO o.a.j.JMeter: java.awt.headless=null
+2023-12-19 20:36:39,921 INFO o.a.j.JMeter: Max memory     =7616856064
+2023-12-19 20:36:39,921 INFO o.a.j.JMeter: Available Processors =16
+2023-12-19 20:36:39,924 INFO o.a.j.JMeter: Default Locale=русский (Россия)
+2023-12-19 20:36:39,924 INFO o.a.j.JMeter: JMeter  Locale=русский (Россия)
+2023-12-19 20:36:39,924 INFO o.a.j.JMeter: JMeterHome=D:\Jmeter\apache-jmeter-5.6.2\apache-jmeter-5.6.2
+2023-12-19 20:36:39,924 INFO o.a.j.JMeter: user.dir  =D:\Jmeter\apache-jmeter-5.6.2\apache-jmeter-5.6.2\bin
+2023-12-19 20:36:39,924 INFO o.a.j.JMeter: PWD       =D:\Jmeter\apache-jmeter-5.6.2\apache-jmeter-5.6.2\bin
+2023-12-19 20:36:44,478 INFO o.a.j.JMeter: IP: 192.168.56.1 Name: HOME-PC FullName: HOME-PC
+2023-12-19 20:36:44,491 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2023-12-19 20:36:44,586 INFO o.a.j.JMeterGuiLauncher: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme
+2023-12-19 20:36:54,449 INFO o.a.j.s.FileServer: Default base='D:\Jmeter\apache-jmeter-5.6.2\apache-jmeter-5.6.2\bin'
+2023-12-19 20:36:54,450 INFO o.a.j.g.a.Load: Loading file: D:\Jmeter\Pets_test_tree.jmx
+2023-12-19 20:36:54,451 INFO o.a.j.s.FileServer: Set new base='D:\Jmeter'
+2023-12-19 20:36:54,527 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2023-12-19 20:36:54,542 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2023-12-19 20:36:54,543 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2023-12-19 20:36:54,545 INFO o.a.j.s.SaveService: Loading file: D:\Jmeter\Pets_test_tree.jmx
+2023-12-19 20:36:54,564 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2023-12-19 20:36:54,564 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2023-12-19 20:36:54,564 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2023-12-19 20:36:54,564 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2023-12-19 20:36:54,564 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2023-12-19 20:36:54,564 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2023-12-19 20:36:54,826 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2023-12-19 20:36:54,826 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to UTF-8
+2023-12-19 20:36:54,826 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2023-12-19 20:36:54,826 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2023-12-19 20:36:54,900 INFO o.a.j.s.FileServer: Set new base='D:\Jmeter'
